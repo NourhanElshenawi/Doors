@@ -1,2 +1,4 @@
-# HubIT Club - Users
-Simple static site.Possibly to be used for the HubIT Git Workshop http://hubit-club.herokuapp.com/
+# Doors Web Application
+***
+
+An application created for the Doors Escape Room company
