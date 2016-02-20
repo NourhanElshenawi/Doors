@@ -1,0 +1,207 @@
+
+.navbar-wrapper .container{
+	width:100%;
+}
+
+.navbar-wrapper .container .container{
+	padding: 1%;
+}
+
+.navbar-inverse .navbar-nav>li>a, .navbar-inverse .navbar-brand {
+	color:white;
+}
+
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover{
+	color:#FFD500;
+}
+
+.navbar-inverse .navbar-brand:hover{
+
+	color:#9d9d9d;
+}
+
+
+#UL li{
+	font-size:200%;
+	font-family: 'Oswald', sans-serif;
+	color:red;
+}
+
+#UL li li {
+	font-size:100%;
+}
+
+.btn-social-icon {
+	font-size:21px;
+	width:40px;
+}
+
+
+
+.navbar-brand {
+	font-size:220%;
+	padding-right: 0;
+}
+#navbar {
+	float:right;
+}
+
+
+
+
+
+.carousel-inner {
+	height: 100%;
+}
+
+
+body {
+
+/* 	background-color:#777; */
+	background: #777; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(#777, white); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#777, white); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#777, white); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#777, white); /* Standard syntax */
+}
+
+.carousel-caption .btn {
+	margin-bottom: 70px;
+	margin-left:0;
+	margin-right:5%;
+}
+
+.carousel-caption .btn:hover {
+	box-shadow: 0 0 30px 0 #FFF;
+}
+
+.carousel-caption .btn-social-icon {
+
+	float:right;
+	margin-right:5%;
+	margin-bottom:0;
+}
+
+.nav-tabs{
+  background-color:#222222;
+	border-radius:4px;
+}
+
+/* img {
+	width:100%;
+	height:100%;
+
+} */
+
+/* @media screen and (max-width: 1200px) {
+    .nav-tabs #first-tab {
+        display:block;
+    }
+
+} */
+
+/* @media screen and (max-width: 600px) {
+
+	.row img{
+		height:100%;
+		width:50%;
+
+	}
+}
+
+
+	@media screen and (max-width: 1000px) {
+		.row img{
+			height:100%;
+		width:100%;
+	}
+	} */
+
+.nav-tabs > li {
+    float:none;
+    display:inline-block;
+}
+
+
+.tab-content{
+    background-color:#303136;
+    color:#fff;
+    padding:5px
+}
+
+.nav-tabs > li > a:hover{
+  font-weight:bold;
+}
+
+.nav-tabs > li > a{
+  color:#FFD500;
+	font-size:1.1em;
+	font-weight:bold;
+}
+
+.nav-tabs > li.active > a,
+.nav-tabs > li.active > a:focus,
+.nav-tabs > li.active > a:hover{
+    background-color: #FFD500;
+	color:black;
+	font-weight:bold;
+	font-size:1.25em;
+}
+
+
+table {
+	width:100%;
+	height:100%;
+	border-collapse:collapse;
+}
+
+thead {
+	text-align:center;
+	font-weight:bold;
+	font-size:1.25em;
+	padding:1% 1%;
+}
+
+
+.info{
+	color:black;
+	font-family: 'Libre Baskerville', serif;
+	font-size:1.5em;
+	font-weight:bold;
+	margin-top: 4%;
+  margin-left: 2%;
+	width:90%;
+	margin-left:5%;
+	margin-right:5%;
+
+
+}
+
+
+
+.head {
+font-weight:bold;
+	font-size:2em;
+	color:black;
+}
+
+tbody td {
+
+	font-size:1.25em;
+
+	padding:1%;
+
+}
+
+#info-section {
+
+	background-color: rgba(255, 213, 0, 0.75);
+}
+
+#pic2 {
+	margin-bottom:2.5%;
+}
+
+#lead-board{
+	margin:5% auto;
+}
